@@ -5,7 +5,7 @@
 > Mukesh Kumar Mishra
 
 ## Introduction
-In this assignment we need to build a model for the prediction of demand for shared bikes.
+In this assignment we need to build a model for the house Price prediction so that this company can make the good profit and provide the good hoe to Australian.
 
 ## Problem Statement
 A US-based housing company named Surprise Housing has decided to enter the Australian market. The company uses data analytics to purchase houses at a price below their actual values and flip them on at a higher price. For the same purpose, the company has collected a data set from the sale of houses in Australia. The data is provided in the CSV file below.
@@ -24,8 +24,6 @@ Also, determine the optimal value of lambda for ridge and lasso regression.
 
 You are required to model the price of houses with the available independent variables. This model will then be used by the management to understand how exactly the prices vary with the variables. They can accordingly manipulate the strategy of the firm and concentrate on areas that will yield high returns. Further, the model will be a good way for management to understand the pricing dynamics of a new market.
 
-## Conclusion:
-On analysing data, it was observed that, the linear regression model was able to predict bike demand precisely with an R2 Score of more than 80%
 
 ## Technologies Used
 Python 3.0.1
